@@ -1,4 +1,4 @@
 # Temperature-Converter-App
 Simple Temperature Converter app
 
-Here's the simple temperature converter app created by using java language and xml code that is basically used for creating app layout
+Celcius to Fahrenheit and Fahrenheit to celcius converter app built with java and xml
